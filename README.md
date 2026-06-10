@@ -2,7 +2,7 @@
 Awesome Archive of Quantum Algorithms
 
 ## Jones Polynomial Algorithm
-- A Quantum Algorithm to evaluate the topological invariants of knots through an approximation of the Jones Polynomial.
+- Algorithm to evaluate the topological invariants of knots through an approximation of the Jones Polynomial.
 - It translates the problem of knot entanglement into a physical simulation of anyons in a (2+1) dimensional TQFT.
 - By path integration of trajectories of these anyons the algorithm computes the transition amplitudes.
 
