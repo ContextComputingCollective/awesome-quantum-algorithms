@@ -1,6 +1,12 @@
 # awesome-quantum-algorithms
 Awesome Archive of Quantum Algorithms
 
+## HHL Algorithm for Linear Systems
+- Named after Harrow, Hasidim, and Lloyd
+- It uses Quantum Phase Estimation applied to the unitary operator to extract the eigenvalues of the matrix.
+- It then utilizes an auxiliary qubit rotation to conditionally invert these eigenvalues in the quantum amplitudes.
+- Then it is followed by uncomputing the phase estimation to isolate the inverted solution.
+
 ## Jones Polynomial Algorithm
 - Algorithm to evaluate the topological invariants of knots through an approximation of the Jones Polynomial.
 - It translates the problem of knot entanglement into a physical simulation of anyons in a (2+1) dimensional TQFT.
